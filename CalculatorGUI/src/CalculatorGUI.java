@@ -11,7 +11,7 @@ public class CalculatorGUI extends JFrame{
     private JButton button2 = new JButton("-");
     private JButton button3 = new JButton("*");
     private JButton button4 = new JButton("/");
-    private JButton button5 = new JButton("=");
+    private JButton button5 = new JButton(""); // later for =
     private JButton button6 = new JButton("reset");
 
     private JTextField input1 = new JTextField("",5);
